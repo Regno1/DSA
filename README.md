@@ -10,6 +10,7 @@
 | [0169-majority-element](https://github.com/Regno1/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Regno1/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Regno1/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Regno1/DSA/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Regno1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Regno1/DSA/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Regno1/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
