@@ -13,6 +13,7 @@
 | [0229-majority-element-ii](https://github.com/Regno1/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Regno1/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Regno1/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Regno1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Regno1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
@@ -27,12 +28,14 @@
 | [0217-contains-duplicate](https://github.com/Regno1/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Regno1/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Regno1/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Regno1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Regno1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Regno1/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Regno1/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Regno1/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +44,7 @@
 | [0217-contains-duplicate](https://github.com/Regno1/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Regno1/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Regno1/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Regno1/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -80,6 +84,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Regno1/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Regno1/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Regno1/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
