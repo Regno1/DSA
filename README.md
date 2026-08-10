@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Regno1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Regno1/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Regno1/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Regno1/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Regno1/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Regno1/DSA/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Regno1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Regno1/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Regno1/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Regno1/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Regno1/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Regno1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
@@ -37,6 +39,7 @@
 | [0013-roman-to-integer](https://github.com/Regno1/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Regno1/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Regno1/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Regno1/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Regno1/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -61,10 +64,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Regno1/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Regno1/DSA/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Regno1/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Regno1/DSA/tree/master/0229-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
