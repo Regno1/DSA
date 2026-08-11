@@ -18,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Regno1/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Regno1/DSA/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Regno1/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Regno1/DSA/tree/master/0268-missing-number) |
