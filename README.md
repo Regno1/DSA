@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Regno1/DSA/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/Regno1/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Regno1/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Regno1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
@@ -78,6 +79,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Regno1/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Regno1/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Regno1/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Regno1/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
