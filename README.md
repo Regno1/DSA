@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/Regno1/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Regno1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Regno1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Regno1/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3024-type-of-triangle](https://github.com/Regno1/DSA/tree/master/3024-type-of-triangle) |
 ## Math
 |  |
@@ -26,6 +27,7 @@
 | [0326-power-of-three](https://github.com/Regno1/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Regno1/DSA/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Regno1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Regno1/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2469-convert-the-temperature](https://github.com/Regno1/DSA/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Regno1/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3024-type-of-triangle](https://github.com/Regno1/DSA/tree/master/3024-type-of-triangle) |
