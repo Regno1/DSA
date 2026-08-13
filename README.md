@@ -29,6 +29,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Regno1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Regno1/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/Regno1/DSA/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Regno1/DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Regno1/DSA/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Regno1/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3024-type-of-triangle](https://github.com/Regno1/DSA/tree/master/3024-type-of-triangle) |
@@ -125,4 +126,8 @@
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Regno1/DSA/tree/master/3024-type-of-triangle) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Regno1/DSA/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
