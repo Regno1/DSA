@@ -32,6 +32,7 @@
 | [2413-smallest-even-multiple](https://github.com/Regno1/DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Regno1/DSA/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Regno1/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2582-pass-the-pillow](https://github.com/Regno1/DSA/tree/master/2582-pass-the-pillow) |
 | [3024-type-of-triangle](https://github.com/Regno1/DSA/tree/master/3024-type-of-triangle) |
 ## Sorting
 |  |
@@ -130,4 +131,8 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Regno1/DSA/tree/master/2413-smallest-even-multiple) |
+## Simulation
+|  |
+| ------- |
+| [2582-pass-the-pillow](https://github.com/Regno1/DSA/tree/master/2582-pass-the-pillow) |
 <!---LeetCode Topics End-->
