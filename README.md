@@ -27,6 +27,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Regno1/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Regno1/DSA/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Regno1/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Regno1/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Regno1/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Regno1/DSA/tree/master/0326-power-of-three) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Regno1/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Regno1/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Regno1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
@@ -153,4 +155,8 @@
 | ------- |
 | [0561-array-partition](https://github.com/Regno1/DSA/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Regno1/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Regno1/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
