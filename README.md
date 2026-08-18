@@ -32,6 +32,7 @@
 | [0268-missing-number](https://github.com/Regno1/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Regno1/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Regno1/DSA/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/Regno1/DSA/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Regno1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Regno1/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/Regno1/DSA/tree/master/2235-add-two-integers) |
@@ -58,6 +59,7 @@
 | [0035-search-insert-position](https://github.com/Regno1/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Regno1/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Regno1/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/Regno1/DSA/tree/master/0441-arranging-coins) |
 ## Hash Table
 |  |
 | ------- |
