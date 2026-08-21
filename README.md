@@ -27,6 +27,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Regno1/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Regno1/DSA/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Regno1/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/Regno1/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Regno1/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Regno1/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3024-type-of-triangle](https://github.com/Regno1/DSA/tree/master/3024-type-of-triangle) |
@@ -169,6 +170,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Regno1/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Regno1/DSA/tree/master/1929-concatenation-of-array) |
 | [2582-pass-the-pillow](https://github.com/Regno1/DSA/tree/master/2582-pass-the-pillow) |
 ## Greedy
