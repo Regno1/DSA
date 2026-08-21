@@ -37,6 +37,7 @@
 | [0509-fibonacci-number](https://github.com/Regno1/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Regno1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Regno1/DSA/tree/master/0728-self-dividing-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Regno1/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Regno1/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/Regno1/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Regno1/DSA/tree/master/2413-smallest-even-multiple) |
