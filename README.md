@@ -22,6 +22,7 @@
 | [0704-binary-search](https://github.com/Regno1/DSA/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Regno1/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Regno1/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Regno1/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Regno1/DSA/tree/master/1470-shuffle-the-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Regno1/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Regno1/DSA/tree/master/1929-concatenation-of-array) |
