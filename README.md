@@ -58,6 +58,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Regno1/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2582-pass-the-pillow](https://github.com/Regno1/DSA/tree/master/2582-pass-the-pillow) |
 | [3024-type-of-triangle](https://github.com/Regno1/DSA/tree/master/3024-type-of-triangle) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Regno1/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
 |  |
 | ------- |
