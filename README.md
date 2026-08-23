@@ -51,6 +51,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Regno1/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Regno1/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Regno1/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1927-sum-game](https://github.com/Regno1/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Regno1/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Regno1/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Regno1/DSA/tree/master/2413-smallest-even-multiple) |
@@ -101,6 +102,7 @@
 | [0013-roman-to-integer](https://github.com/Regno1/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Regno1/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Regno1/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1927-sum-game](https://github.com/Regno1/DSA/tree/master/1927-sum-game) |
 ## Trie
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Regno1/DSA/tree/master/0561-array-partition) |
+| [1927-sum-game](https://github.com/Regno1/DSA/tree/master/1927-sum-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -208,4 +211,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Regno1/DSA/tree/master/1672-richest-customer-wealth) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Regno1/DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
