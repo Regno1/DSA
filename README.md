@@ -68,6 +68,7 @@
 | [0169-majority-element](https://github.com/Regno1/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Regno1/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Regno1/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Regno1/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Regno1/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Regno1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Regno1/DSA/tree/master/0414-third-maximum-number) |
@@ -94,6 +95,7 @@
 | [0169-majority-element](https://github.com/Regno1/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Regno1/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Regno1/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Regno1/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Regno1/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Regno1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Regno1/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -105,6 +107,7 @@
 | [0013-roman-to-integer](https://github.com/Regno1/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Regno1/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Regno1/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/Regno1/DSA/tree/master/0242-valid-anagram) |
 | [1927-sum-game](https://github.com/Regno1/DSA/tree/master/1927-sum-game) |
 ## Trie
 |  |
