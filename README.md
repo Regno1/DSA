@@ -29,6 +29,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Regno1/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Regno1/DSA/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Regno1/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1872-stone-game-viii](https://github.com/Regno1/DSA/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/Regno1/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Regno1/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Regno1/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -51,6 +52,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Regno1/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Regno1/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Regno1/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1872-stone-game-viii](https://github.com/Regno1/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Regno1/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Regno1/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Regno1/DSA/tree/master/2235-add-two-integers) |
@@ -114,6 +116,7 @@
 | [0070-climbing-stairs](https://github.com/Regno1/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Regno1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Regno1/DSA/tree/master/0509-fibonacci-number) |
+| [1872-stone-game-viii](https://github.com/Regno1/DSA/tree/master/1872-stone-game-viii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,6 +210,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Regno1/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/Regno1/DSA/tree/master/1872-stone-game-viii) |
 ## Matrix
 |  |
 | ------- |
@@ -214,5 +218,14 @@
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Regno1/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Regno1/DSA/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Regno1/DSA/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Regno1/DSA/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
