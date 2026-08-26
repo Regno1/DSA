@@ -22,6 +22,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Regno1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Regno1/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Regno1/DSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Regno1/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Regno1/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Regno1/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Regno1/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -90,6 +91,7 @@
 | [0367-valid-perfect-square](https://github.com/Regno1/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Regno1/DSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Regno1/DSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Regno1/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -242,4 +244,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Regno1/DSA/tree/master/0278-first-bad-version) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Regno1/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
