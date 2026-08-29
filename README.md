@@ -45,6 +45,7 @@
 | [0013-roman-to-integer](https://github.com/Regno1/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Regno1/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Regno1/DSA/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Regno1/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Regno1/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Regno1/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Regno1/DSA/tree/master/0342-power-of-four) |
