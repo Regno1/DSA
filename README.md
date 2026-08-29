@@ -35,6 +35,7 @@
 | [1920-build-array-from-permutation](https://github.com/Regno1/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Regno1/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Regno1/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Regno1/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3024-type-of-triangle](https://github.com/Regno1/DSA/tree/master/3024-type-of-triangle) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Regno1/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -80,6 +81,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Regno1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Regno1/DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Regno1/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Regno1/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3024-type-of-triangle](https://github.com/Regno1/DSA/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
@@ -266,4 +268,8 @@
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Regno1/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Regno1/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Regno1/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
