@@ -35,6 +35,7 @@
 | [1920-build-array-from-permutation](https://github.com/Regno1/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Regno1/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Regno1/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Regno1/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Regno1/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3024-type-of-triangle](https://github.com/Regno1/DSA/tree/master/3024-type-of-triangle) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Regno1/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -211,6 +212,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/Regno1/DSA/tree/master/0561-array-partition) |
 | [1927-sum-game](https://github.com/Regno1/DSA/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Regno1/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Regno1/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting Sort
 |  |
