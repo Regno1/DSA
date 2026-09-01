@@ -38,6 +38,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Regno1/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Regno1/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3024-type-of-triangle](https://github.com/Regno1/DSA/tree/master/3024-type-of-triangle) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Regno1/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Regno1/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -112,6 +113,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Regno1/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Regno1/DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Regno1/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Regno1/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Regno1/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Regno1/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
@@ -162,6 +164,7 @@
 | [0342-power-of-four](https://github.com/Regno1/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Regno1/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Regno1/DSA/tree/master/0645-set-mismatch) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Regno1/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -241,6 +244,7 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Regno1/DSA/tree/master/1672-richest-customer-wealth) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Regno1/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Game Theory
 |  |
 | ------- |
@@ -279,4 +283,8 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Regno1/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Regno1/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
