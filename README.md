@@ -127,6 +127,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Regno1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Regno1/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Regno1/DSA/tree/master/0389-find-the-difference) |
+| [0709-to-lower-case](https://github.com/Regno1/DSA/tree/master/0709-to-lower-case) |
 | [1927-sum-game](https://github.com/Regno1/DSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Regno1/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Regno1/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
