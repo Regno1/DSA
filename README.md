@@ -126,6 +126,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Regno1/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Regno1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Regno1/DSA/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Regno1/DSA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Regno1/DSA/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Regno1/DSA/tree/master/0709-to-lower-case) |
 | [1927-sum-game](https://github.com/Regno1/DSA/tree/master/1927-sum-game) |
@@ -175,6 +176,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Regno1/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Regno1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Regno1/DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Regno1/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Regno1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Regno1/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String Matching
