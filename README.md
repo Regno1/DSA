@@ -106,6 +106,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Regno1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Regno1/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Regno1/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Regno1/DSA/tree/master/0217-contains-duplicate) |
@@ -123,6 +124,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Regno1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Regno1/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Regno1/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Regno1/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -278,6 +280,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Regno1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Regno1/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Enumeration
 |  |
