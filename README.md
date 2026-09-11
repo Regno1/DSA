@@ -38,6 +38,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Regno1/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Regno1/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3024-type-of-triangle](https://github.com/Regno1/DSA/tree/master/3024-type-of-triangle) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Regno1/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Regno1/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Regno1/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Regno1/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -122,6 +123,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Regno1/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Regno1/DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Regno1/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Regno1/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Regno1/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Regno1/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Regno1/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -216,6 +218,7 @@
 | [0326-power-of-three](https://github.com/Regno1/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Regno1/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Regno1/DSA/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Regno1/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Polygons
 |  |
 | ------- |
@@ -297,6 +300,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Regno1/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Regno1/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Regno1/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
