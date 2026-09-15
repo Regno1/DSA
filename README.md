@@ -145,6 +145,7 @@
 | [0796-rotate-string](https://github.com/Regno1/DSA/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Regno1/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Regno1/DSA/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Regno1/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Regno1/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Regno1/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Regno1/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -162,6 +163,7 @@
 | [0509-fibonacci-number](https://github.com/Regno1/DSA/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Regno1/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/Regno1/DSA/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Regno1/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | [0283-move-zeroes](https://github.com/Regno1/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Regno1/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Regno1/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Regno1/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Regno1/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String Matching
 |  |
@@ -242,6 +245,7 @@
 | [0561-array-partition](https://github.com/Regno1/DSA/tree/master/0561-array-partition) |
 | [1927-sum-game](https://github.com/Regno1/DSA/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Regno1/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Regno1/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Regno1/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting Sort
 |  |
