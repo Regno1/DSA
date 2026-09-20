@@ -40,6 +40,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Regno1/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Regno1/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3024-type-of-triangle](https://github.com/Regno1/DSA/tree/master/3024-type-of-triangle) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Regno1/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Regno1/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Regno1/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Regno1/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -101,6 +102,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Regno1/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Regno1/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3024-type-of-triangle](https://github.com/Regno1/DSA/tree/master/3024-type-of-triangle) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Regno1/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | [0704-binary-search](https://github.com/Regno1/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Regno1/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Regno1/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Regno1/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +177,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Regno1/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Regno1/DSA/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Regno1/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Regno1/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
