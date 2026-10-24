@@ -91,6 +91,7 @@
 | [1927-sum-game](https://github.com/Regno1/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Regno1/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Regno1/DSA/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/Regno1/DSA/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Regno1/DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Regno1/DSA/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Regno1/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -198,6 +199,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Regno1/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Regno1/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Regno1/DSA/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Regno1/DSA/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Regno1/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Regno1/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Regno1/DSA/tree/master/3498-reverse-degree-of-a-string) |
