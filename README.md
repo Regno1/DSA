@@ -25,6 +25,7 @@
 | [0704-binary-search](https://github.com/Regno1/DSA/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/Regno1/DSA/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Regno1/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1254-number-of-closed-islands](https://github.com/Regno1/DSA/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Regno1/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Regno1/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Regno1/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -350,6 +351,7 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Regno1/DSA/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Regno1/DSA/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/Regno1/DSA/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Regno1/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Regno1/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -391,6 +393,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Regno1/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Regno1/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Regno1/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
@@ -401,6 +404,7 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Regno1/DSA/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Regno1/DSA/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Regno1/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
@@ -410,6 +414,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Regno1/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Regno1/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
